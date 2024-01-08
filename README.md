@@ -1,9 +1,8 @@
 # Projeto Pokedex
+Este projeto é uma aplicação que utiliza a Poke API para obter informações sobre Pokémon. Ele foi desenvolvido com o objetivo de demonstrar habilidades em desenvolvimento web e manipulação de dados.
+
 
 ![image](https://github.com/LeandroGoulart/projeto_Pokedex/assets/82618246/70609791-e836-4263-8584-c9030c8a5242)
-
-
-Este projeto é uma aplicação que utiliza a Poke API para obter informações sobre Pokémon. Ele foi desenvolvido com o objetivo de demonstrar habilidades em desenvolvimento web e manipulação de dados.
 
 ## Visão Geral
 
